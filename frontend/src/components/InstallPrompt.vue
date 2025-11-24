@@ -2,7 +2,7 @@
 	<!-- Install PWA dialog -->
 	<Dialog v-model="showDialog">
 		<template #body-title>
-			<h2 class="text-lg font-bold">{{ __("Install SOSG HR") }} </h2>
+			<h2 class="text-lg font-bold">{{ __("Install SOGS HR") }} </h2>
 		</template>
 		<template #body-content>
 			<p>{{ __("Get the app on your device for easy access & a better experience!") }} </p>
